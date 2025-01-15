@@ -1,0 +1,307 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0)
+}
+.Aadhar-Card{
+  margin: 10px auto;
+  width: 690px;
+  height: 226px;
+  display: flex;
+}
+.front{
+  width: 315px;
+  height: 196px;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 3px;
+ /* box-shadow: 0 0 1px;*/
+  border: 0.1px solid black;
+  background-color: #FAFAFA;
+}
+.fhead{
+  width: 100%;
+  height: 40px;
+  display: flex;
+}
+.govlogo1{
+  width: 90px;
+  height: 40px;
+}
+.h1-logo{
+  width: 25px;
+  height: 40px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  margin-left: 30px;
+ 
+}
+.govlogo{
+  width: 215px;
+  height: 95px;
+  margin-top: -31px;
+}
+.Bgovlogo{
+  width: 215px;
+  height: 95px;
+  margin-top: -33px;
+}
+.frm{
+  width: 220px;
+  height: 40px;
+  margin-left: -5px;
+}
+.aalogo{
+  width: 20%;
+  height: 40px;
+}
+.h2-logo{
+  width: 45px;
+  margin-bottom: -18px;
+}
+.fmeddle{
+  width: 100%;
+  height: 115px;
+  margin-top: 10px;
+  display: flex;
+}
+.cusdetails{
+  width: 120px;
+  height: 80px;
+}
+.nam-hi,.nam-en,.dob,.gender{
+  font-size: 9px;
+  font-weight: 500;
+  margin-left: 5px;
+  margin-top: 1px;
+}
+.fredline{
+  width: 100%;
+  height: 2px;
+  margin-left: -10px;
+  padding-right: 20px;
+  background-color: red;
+}
+.aaphoto{
+  width: 86px;
+  height: 94px;
+  margin-top: 5px;
+}
+.photo{
+  width: 80px;
+  height: 90px;
+  margin-left: 5px;
+}
+.nam-num{
+  width: 230px;
+  height: 100px;
+  margin-top: 5px;
+}
+.nam{
+  width: 140px;
+  height: 90px;
+  font-weight: 600;
+  font-size: 14px;
+}
+.num{
+  width: 165px;
+  height: 23px;
+  font-size: 17px;
+  text-align: center;
+  margin-top: -1px;
+  margin-left: -8px;
+  font-weight: 400;
+  word-spacing: 5px;
+  font-family: inherit;
+}
+.qrcode{
+  width: 140px;
+  height: 100px;
+  margin-top: 10px;
+  margin-left: -8px;
+}
+.gr-img{
+  width: 74px;
+  height: 74px;
+  margin-top: 24px;
+  margin-left: 10px;
+}
+/*  Footer */
+.hindi{
+  width: 100%;
+  height: 35px;
+  margin-left: -10px;
+  padding: 0px 10px;
+}
+.Hindiword{
+  width: 80%;
+  height: 30px;
+  margin: 1px auto;
+  display: flex;
+}
+.hw1,.hw3,.hw4,.hw5{
+  font-size: 23px;
+  font-weight: 600;
+  margin: 6px 5px;
+}
+.hw2{
+  color: red;
+  font-size: 23px;
+  font-weight: 600;
+  margin: 6px 5px;
+}
+.back{
+  width: 315px;
+  height: 196px;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 3px;
+/*  box-shadow: 0 0 1px;*/
+  border: 0.1px solid black;
+  background-color: #FAFAFA;
+}
+.Bh1-logo{
+  width: 55px;
+  height: 38px;
+  margin-top: -5px;
+  margin-bottom: 1px;
+  margin-left: 10px;
+}
+.Bmeddle{
+  width: 100%;
+  height: 110px;
+  margin-top: 10px;
+  display: flex;
+}
+.Address{
+  width: 210px;
+}
+.Address1{
+  width: 200px;
+  height: 40px;
+  margin-left: 10px;
+  font-size: 11px;
+}
+.Address2{
+  width: 200px;
+  height: 40px;
+  margin-left: 10px;
+  font-size: 11px;
+  margin-top: 10px;
+}
+p{
+  margin: 0;
+  padding: 0;
+  font-weight: 500;
+}
+.Bredline{
+  width: 100%;
+  height: 2px;
+  margin-left: -10px;
+  padding-right: 20px;
+  margin-top: -4px;
+  background-color: red;
+}
+.bqr{
+  width: 115px;
+  height: 108px;
+}
+.bqri{
+  width: 90px;
+  height: 90px;
+  margin: 8px 5px;
+}
+.Aanum{
+  width: 100%;
+  height: 25px;
+  margin-top: -26px;
+  margin-left: -10px;
+  padding: 0px 10px;
+}
+.bnum{
+  width: 165px;
+  height: 23px;
+  font-size: 17px;
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 50px;
+  font-weight: 600;
+  word-spacing: 5px;
+  font-family: inherit;
+}
+.uidai-so-contact{
+  width: 100%;
+  height: 38px;
+  font-size: 8px;
+  margin-left: -20px;
+  margin-top: 2px;
+  padding: 0px 10px;
+  display: flex;
+}
+.fhone{
+  width: 105px;
+  height: 34px;
+  margin-left: -10px;
+}
+.ficon{
+  width: 105px;
+  height: 20px;
+  text-align: center;
+}
+.eicon{
+  width: 105px;
+  height: 20px;
+  text-align: center;
+ }
+ .sicon{
+  width: 105px;
+  height: 20px;
+  text-align: center;
+   }
+.ftxt,.etxt{
+  width: 105px;
+  height: 15px;
+  font-size: 10px;
+  font-weight: 700;
+  text-align: center;
+}
+.stxt{
+  margin-top: -4px;
+  width: 105px;
+  height: 15px;
+  font-size: 10px;
+  font-weight: 700;
+  text-align: center;
+}
+.wwwlogo{
+  width: 30px;
+  color: #fff;
+  padding: 3px 6px;
+  font-weight: 600;
+  margin-top: 4px;
+  margin-left: 30px;
+  letter-spacing: 0.3px;
+  background-color: #000;
+  text-align: center;
+  border-radius: 2px;
+  font-family: sans-serif;
+}
+.cf{
+  width: 18px;
+  margin-top: 2px;
+}
+.gmail{
+  width: 105px;
+  height: 34px;
+}
+.ce{
+  width: 18px;
+  margin-top: 3px;
+}
+
+.site{
+  width: 105px;
+  height: 34px;
+  margin-left: 15px;
+  }
+  
