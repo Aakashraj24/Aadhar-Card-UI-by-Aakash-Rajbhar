@@ -1,18 +1,18 @@
-<h3>
+<h1>
   This Aadhar is not original Aadhar card
-</h3> 
+</h1> 
 
-<h4>
+<h3>
   Given Feature is Coming Soon.
-</h4>
+</h3>
 
 1. You can edit or update Aadhar card
 2. You can also **Download**  as **PDF**
 3. This Feature is comeback after given update :
 
-<h4>
+<h3>
  Some updates is coming soon.
-</h4>
+</h3>
 
 1. Removing **Margin** and adding **Positioning**
 2. Creating  **Mobile Phone UI** using **@media query**
@@ -22,10 +22,9 @@
 @media
 ```
 
-<hr>
+<h3></h3>
 
-<h5>
-This site is : [• Live Now](https://aakashraj24.github.io/Aadhar-Card-UI-by-Aakash-Rajbhar/)
-</h5>
+<h3>This site is : </h3>
+[• Live Now](https://aakashraj24.github.io/Aadhar-Card-UI-by-Aakash-Rajbhar/)
 
 
