@@ -1,8 +1,10 @@
-#### This Aadhar is not original Aadhar card
+<h2>
+  This Aadhar is not original Aadhar card
+</h2> 
 
----
-
-#### Given Feature is Coming Soon.
+<h3>
+  Given Feature is Coming Soon.
+</h3>
 
 1. You can edit or update Aadhar card
 2. You can also **Download**  as **PDF**
