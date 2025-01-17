@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
   This Aadhar is not original Aadhar card
 </h1> 
 
@@ -25,6 +25,6 @@
 <h3></h3>
 
 <h3>This site is : </h3>
-[• Live Now](https://aakashraj24.github.io/Aadhar-Card-UI-by-Aakash-Rajbhar/)
+Visit now : [• Live Now](https://aakashraj24.github.io/Aadhar-Card-UI-by-Aakash-Rajbhar/)
 
 
